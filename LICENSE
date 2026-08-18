@@ -16,9 +16,7 @@ The sample data may be used for academic research, teaching, and reproduction of
 
 3. Full Dataset
 
-The complete PPoll dataset is not publicly redistributable through this repository. Access to the full dataset is granted only upon request and under a separate PPoll Data Use Agreement.
-
-Users who obtain the full dataset may not redistribute, sublicense, sell, publish, or host the full dataset or any substantial subset of it without explicit written permission from the PPoll maintainers.
+The complete PPoll dataset is not publicly redistributable through this repository. After the paper is successfully published, we will release the full dataset. For now, we can only provide a subset of samples.
 
 4. Model Weights
 
