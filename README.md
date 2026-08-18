@@ -146,26 +146,6 @@ Model weights are not included in this public repository.
 
 Please manually download or prepare the required pretrained weights before running the baseline scripts. The `checkpoints/` directory can be used to store pretrained weights locally.
 
-## Data Access
-
-The complete PPoll dataset is available upon request for academic research only. To request access, please provide:
-
-1. Name
-2. Affiliation
-3. Position
-4. Institutional email
-5. Research purpose
-6. Agreement not to redistribute the dataset
-7. Agreement to cite the PPoll paper after publication
-
-Please see [DATA_USE_AGREEMENT.md](DATA_USE_AGREEMENT.md) for the data usage terms.
-
 ## Citation
 
 The citation will be added after publication.
-
-## Contact
-
-Please contact the maintainers for full dataset access.
-
-Contact email: wuj49397@gmail.com
