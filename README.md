@@ -25,7 +25,7 @@ This repository currently provides:
 - checkpoint preparation instructions;
 - data access and usage terms.
 
-The full PPoll dataset is not publicly released before publication. Researchers who need access to the complete dataset should contact the maintainers and sign the PPoll Data Use Agreement.
+The full PPoll dataset is not publicly released before publication. After the paper is successfully published, we will release the full dataset. For now, we can only provide a subset of samples.
 
 ## Sample Data Structure
 
