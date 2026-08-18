@@ -1,9 +1,5 @@
 # Checkpoints
 
-This directory does not contain model weights in the public repository.
-
-Please manually download or prepare the required pretrained weights before running the baseline scripts. The `checkpoints/` directory can be used to store pretrained weights locally.
-
 Expected pretrained weights may include:
 
 - YOLOv8-det:`yolov8s.pt`
@@ -16,4 +12,3 @@ Expected pretrained weights may include:
 - Keypoint R-CNN:`keypointrcnn_resnet50_fpn_coco.pth`
 - Mask2Former:`mask2former-swin-tiny-coco-instance`
 
-The full trained weights and complete dataset are available upon request under the PPoll Data Use Agreement.
